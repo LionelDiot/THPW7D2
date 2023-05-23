@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/THPW7D2/static/css/main.c2cab247.css",
+    "main.js": "/THPW7D2/static/js/main.a363d02b.js",
+    "index.html": "/THPW7D2/index.html",
+    "main.c2cab247.css.map": "/THPW7D2/static/css/main.c2cab247.css.map",
+    "main.a363d02b.js.map": "/THPW7D2/static/js/main.a363d02b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2cab247.css",
+    "static/js/main.a363d02b.js"
+  ]
+}
