@@ -9,7 +9,6 @@ export default function PostForm() {
   const loggedIn = useAtomValue(loggedInAtom);
   const user = useAtomValue(currentUserAtom);
   const userid = useAtomValue(userIdAtom);
-  console.log(user);
   const handlePostSubmit = (event) => {
     event.preventDefault();
     const formText = event.target.elements.textArea.value;

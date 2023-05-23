@@ -3,7 +3,7 @@ import { useEffect } from "react";
 
 export default function Post(data) {
   const post = data.data.attributes;
-  useEffect(() => {
+  useEffect(() => {console.log(post.user)
   }, []);
   return (
   <>

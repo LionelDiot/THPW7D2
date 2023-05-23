@@ -6,7 +6,6 @@ import { loggedInAtom  } from '../../Atoms/loggedin';
 const LoggedOutRoute = ({ children }) => {
   const loggedIn = useAtomValue(loggedInAtom);
   if (loggedIn) {
-    alert("Vous etes déjà connecté !");
     return <Navigate to="/" replace />;
   }
   return children;
