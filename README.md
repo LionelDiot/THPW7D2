@@ -1,3 +1,8 @@
+
+# GitHub Pages du site disponible ici :
+##  https://lioneldiot.github.io/
+## il faut tout de même strapi qui tourne en local pour marcher !
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
